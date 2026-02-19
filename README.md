@@ -41,4 +41,4 @@ Before proceeding with the installation, ensure you have the following:
 To install the complete package (Psiphon + Telegram Bot + CLI Tool), simply copy and run the following command in your server's terminal:
 
 ```bash
-bash <(curl -Ls [https://raw.githubusercontent.com/a-salemi/psiphon-linux/main/install.sh](https://raw.githubusercontent.com/a-salemi/psiphon-linux/main/install.sh))
+bash <(curl -Ls (https://raw.githubusercontent.com/a-salemi/psiphon-linux/main/install.sh))
